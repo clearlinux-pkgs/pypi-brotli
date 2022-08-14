@@ -4,7 +4,7 @@
 #
 Name     : pypi-brotli
 Version  : 1.0.9
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/2a/18/70c32fe9357f3eea18598b23aa9ed29b1711c3001835f7cf99a9818985d0/Brotli-1.0.9.zip
 Source0  : https://files.pythonhosted.org/packages/2a/18/70c32fe9357f3eea18598b23aa9ed29b1711c3001835f7cf99a9818985d0/Brotli-1.0.9.zip
 Summary  : Python bindings for the Brotli compression library
